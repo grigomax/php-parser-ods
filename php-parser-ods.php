@@ -2,7 +2,7 @@
 
 /* Massimo Grigolin (grigomax@mcetechnik.it)
  * Parser file ODS versione 1.0 22/02/2017
- * Nome file - php-parse-ods.php
+ * Nome file - php-parser-ods.php
  * 
  * Licenza GPL3
  * 
